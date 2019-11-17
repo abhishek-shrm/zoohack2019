@@ -1,0 +1,48 @@
+body{
+  background: url('./images/arrow.png') 10% 10%;
+  position: absolute;
+}
+
+.img1{
+  position:absolute;
+  z-index: 2;
+  height: 130px;
+  width: 120px;
+  margin-left: 80px;
+}
+
+.img2{
+  position:absolute;
+  z-index: 2;
+  height: 110px;
+  width: 110px;
+  margin-top: 255px;
+  margin-left: 90px;
+}
+
+.img3{
+  position:absolute;
+  z-index: 2;
+  height: 110px;
+  width: 110px;
+  margin-top: 520px;
+  margin-left: 90px;
+}
+
+.img4{
+  position:absolute;
+  z-index: 2;
+  height: 110px;
+  width: 110px;
+  margin-top: 255px;
+  margin-left: 790px;
+}
+
+.img5{
+  position:absolute;
+  z-index: 2;
+  height: 110px;
+  width: 110px;
+  margin-top: 255px;
+  margin-left: 1220px;
+}
